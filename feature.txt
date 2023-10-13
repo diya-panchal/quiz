@@ -1,2 +1,2 @@
-Hello, Git!
-Second line added for task 4
+
+Hello, Git! conflict!
